@@ -1,0 +1,447 @@
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\animations\startup.txt
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\bundles\splash.txt
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\4.png
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\access.png
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\bone.png
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\character1.png
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\character2.png
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\character3.png
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\choose.png
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\fdFile.png
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\fdFolder.png
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\frame.png
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\galangal.png
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\gameoverimg.jpg
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\img.png
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\img2.png
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\img3.jpg
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\img3.png
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\instruction.png
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\knife.png
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\loose.png
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\mute.png
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\onion.png
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\play.png
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\playbutton.png
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\replay.png
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\images\wok.png
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\sounds\camerasound.wav
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\sounds\dog.wav
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\sounds\error.wav
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\sounds\music.wav
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\sounds\themesong.wav
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\sounds\whoosh.wav
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\SwinGame.icns
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\Resources\SwinGame.ico
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\MyGame.exe
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\MyGame.pdb
+C:\Users\Jason\Desktop\DogMeat\bin\Debug\SwinGame.dll
+C:\Users\Jason\Desktop\DogMeat\obj\x86\Debug-Windows\DogMeat.csprojAssemblyReference.cache
+C:\Users\Jason\Desktop\DogMeat\obj\x86\Debug-Windows\DogMeat.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Desktop\DogMeat\obj\x86\Debug-Windows\DogMeat.csproj.CopyComplete
+C:\Users\Jason\Desktop\DogMeat\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\Jason\Desktop\DogMeat\obj\x86\Debug-Windows\MyGame.pdb
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\animations\startup.txt
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\bundles\FileDialog.txt
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\bundles\splash.txt
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\fonts\arial.ttf
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\fonts\cour.ttf
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\access.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\bone.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\character1.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\character2.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\character3.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\choose.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\fdFile.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\fdFolder.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\frame.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\galangal.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\gameoverimg.jpg
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\img.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\img2.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\img3.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\instruction.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\knife.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\loose.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\mute.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\onion.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\play.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\playbutton.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\replay.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\Swinburne.jpg
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\SwinGameAni.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\wok.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\panels\FileDialog.txt
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\sounds\camerasound.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\sounds\dog.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\sounds\error.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\sounds\music.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\sounds\SwinGameStart.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\sounds\themesong.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\sounds\whoosh.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\SwinGame.icns
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\SwinGame.ico
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\MyGame.exe
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\MyGame.pdb
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\SwinGame.dll
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\obj\x86\Debug-Windows\DogMeat.csprojAssemblyReference.cache
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\obj\x86\Debug-Windows\DogMeat.csproj.CoreCompileInputs.cache
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\obj\x86\Debug-Windows\DogMeat.csproj.CopyComplete
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\obj\x86\Debug-Windows\MyGame.exe
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\obj\x86\Debug-Windows\MyGame.pdb
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\fire.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\heart.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\sounds\bite.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\sounds\click.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\sounds\shoot.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\sounds\explosion.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\sounds\gameovermusic.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\DogHulk.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\animations\startup.txt
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\bundles\FileDialog.txt
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\bundles\splash.txt
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\fonts\arial.ttf
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\fonts\cour.ttf
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\images\access.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\images\bone.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\images\character1.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\images\character2.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\images\character3.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\images\choose.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\images\fdFile.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\images\fdFolder.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\images\fire.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\images\frame.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\images\galangal.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\images\gameoverimg.jpg
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\images\heart.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\images\img.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\images\img2.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\images\img3.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\images\instruction.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\images\knife.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\images\loose.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\images\onion.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\images\play.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\images\playbutton.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\images\replay.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\images\Swinburne.jpg
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\images\SwinGameAni.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\images\wok.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\panels\FileDialog.txt
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\sounds\bite.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\sounds\camerasound.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\sounds\click.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\sounds\dog.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\sounds\error.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\sounds\explosion.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\sounds\gameovermusic.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\sounds\music.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\sounds\shoot.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\sounds\SwinGameStart.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\sounds\themesong.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\sounds\whoosh.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\SwinGame.icns
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\SwinGame.ico
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\images\DogHulk.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\Resources\images\mute.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\MyGame.exe
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\MyGame.pdb
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\bin\Debug\SwinGame.dll
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\obj\x86\Debug-Windows\DogMeat.csprojAssemblyReference.cache
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\obj\x86\Debug-Windows\DogMeat.csproj.CoreCompileInputs.cache
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\obj\x86\Debug-Windows\DogMeat.csproj.CopyComplete
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\obj\x86\Debug-Windows\MyGame.exe
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\nearlydone\DogMeat\obj\x86\Debug-Windows\MyGame.pdb
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\animations\startup.txt
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\bundles\FileDialog.txt
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\bundles\splash.txt
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\fonts\arial.ttf
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\fonts\cour.ttf
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\access.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\bone.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\character1.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\character2.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\character3.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\choose.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\DogHulk.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\fdFile.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\fdFolder.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\fire.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\frame.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\galangal.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\gameoverimg.jpg
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\heart.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\img.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\img2.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\img3.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\instruction.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\knife.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\loose.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\mute.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\onion.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\play.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\playbutton.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\replay.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\Swinburne.jpg
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\SwinGameAni.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\wok.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\panels\FileDialog.txt
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\sounds\bite.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\sounds\camerasound.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\sounds\click.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\sounds\dog.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\sounds\error.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\sounds\explosion.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\sounds\gameovermusic.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\sounds\music.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\sounds\shoot.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\sounds\SwinGameStart.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\sounds\themesong.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\sounds\whoosh.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\SwinGame.icns
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\SwinGame.ico
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\2.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\DogHulk1.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\MyGame.exe
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\MyGame.pdb
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\SwinGame.dll
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\obj\x86\Debug-Windows\DogMeat.csprojAssemblyReference.cache
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\obj\x86\Debug-Windows\DogMeat.csproj.CoreCompileInputs.cache
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\obj\x86\Debug-Windows\DogMeat.csproj.CopyComplete
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\obj\x86\Debug-Windows\MyGame.exe
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\obj\x86\Debug-Windows\MyGame.pdb
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\transform_Tl9_icon.ico
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\transform.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\boom.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\slowimg1.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\slowimg2.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\DogMeat\bin\Debug\Resources\images\slowimg3.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\2.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\boom.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\DogHulk1.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\slowimg1.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\slowimg2.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\slowimg3.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\images\transform.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeat\bin\Debug\Resources\transform_Tl9_icon.ico
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\obj\x86\Debug-Windows\DogMeat.csprojAssemblyReference.cache
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\obj\x86\Debug-Windows\DogMeat.csproj.CoreCompileInputs.cache
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\obj\x86\Debug-Windows\MyGame.exe
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\obj\x86\Debug-Windows\MyGame.pdb
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\animations\startup.txt
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\bundles\FileDialog.txt
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\bundles\splash.txt
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\fonts\arial.ttf
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\fonts\cour.ttf
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\2.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\access.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\bone.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\boom.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\character1.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\character2.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\character3.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\choose.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\DogHulk.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\DogHulk1.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\fdFile.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\fdFolder.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\fire.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\frame.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\galangal.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\gameoverimg.jpg
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\heart.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\img.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\img2.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\img3.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\instruction.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\knife.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\loose.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\mute.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\onion.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\play.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\playbutton.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\replay.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\slowimg1.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\slowimg2.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\slowimg3.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\Swinburne.jpg
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\SwinGameAni.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\transform.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\wok.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\panels\FileDialog.txt
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\sounds\bite.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\sounds\camerasound.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\sounds\click.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\sounds\dog.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\sounds\error.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\sounds\explosion.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\sounds\gameovermusic.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\sounds\music.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\sounds\shoot.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\sounds\SwinGameStart.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\sounds\themesong.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\sounds\whoosh.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\SwinGame.icns
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\SwinGame.ico
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\transform_Tl9_icon.ico
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\MyGame.exe
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\MyGame.pdb
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\SwinGame.dll
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\obj\x86\Debug-Windows\DogMeat.csproj.CopyComplete
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\light.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\light1.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\project\DogMeatWith pattern\bin\Debug\Resources\images\w.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\animations\startup.txt
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\bundles\FileDialog.txt
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\bundles\splash.txt
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\fonts\arial.ttf
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\fonts\cour.ttf
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\2.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\access.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\bone.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\boom.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\character1.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\character2.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\character3.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\choose.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\DogHulk.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\DogHulk1.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\fdFile.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\fdFolder.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\fire.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\frame.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\galangal.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\gameoverimg.jpg
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\heart.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\img.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\img2.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\img3.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\instruction.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\knife.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\light.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\light1.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\loose.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\mute.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\onion.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\play.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\playbutton.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\replay.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\slowimg1.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\slowimg2.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\slowimg3.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\Swinburne.jpg
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\SwinGameAni.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\transform.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\w.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\wok.png
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\panels\FileDialog.txt
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\sounds\bite.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\sounds\camerasound.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\sounds\click.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\sounds\dog.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\sounds\error.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\sounds\explosion.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\sounds\gameovermusic.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\sounds\music.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\sounds\shoot.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\sounds\SwinGameStart.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\sounds\themesong.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\sounds\whoosh.wav
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\SwinGame.icns
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\SwinGame.ico
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\transform_Tl9_icon.ico
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\MyGame.exe
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\MyGame.pdb
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\SwinGame.dll
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\obj\x86\Debug-Windows\DogMeat.csprojAssemblyReference.cache
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\obj\x86\Debug-Windows\DogMeat.csproj.CoreCompileInputs.cache
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\obj\x86\Debug-Windows\DogMeat.csproj.CopyComplete
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\obj\x86\Debug-Windows\MyGame.exe
+D:\MEGAsync\Study\Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\obj\x86\Debug-Windows\MyGame.pdb
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\animations\startup.txt
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\bundles\FileDialog.txt
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\bundles\splash.txt
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\fonts\arial.ttf
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\fonts\cour.ttf
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\2.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\access.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\bone.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\boom.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\character1.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\character2.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\character3.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\choose.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\DogHulk.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\DogHulk1.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\fdFile.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\fdFolder.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\fire.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\frame.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\galangal.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\gameoverimg.jpg
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\heart.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\img.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\img2.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\img3.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\instruction.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\knife.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\light.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\light1.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\loose.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\mute.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\onion.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\play.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\playbutton.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\replay.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\slowimg1.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\slowimg2.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\slowimg3.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\Swinburne.jpg
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\SwinGameAni.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\transform.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\w.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\images\wok.png
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\panels\FileDialog.txt
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\sounds\bite.wav
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\sounds\camerasound.wav
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\sounds\click.wav
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\sounds\dog.wav
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\sounds\error.wav
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\sounds\explosion.wav
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\sounds\gameovermusic.wav
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\sounds\music.wav
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\sounds\shoot.wav
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\sounds\SwinGameStart.wav
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\sounds\themesong.wav
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\sounds\whoosh.wav
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\SwinGame.icns
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\SwinGame.ico
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\Resources\transform_Tl9_icon.ico
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\MyGame.exe
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\MyGame.pdb
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\bin\Debug\SwinGame.dll
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\obj\x86\Debug-Windows\DogMeat.csprojAssemblyReference.cache
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\obj\x86\Debug-Windows\DogMeat.csproj.CoreCompileInputs.cache
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\obj\x86\Debug-Windows\DogMeat.csproj.CopyComplete
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\obj\x86\Debug-Windows\MyGame.exe
+D:\MEGAsync\Study\2018 Semester 2\COS20007 - Object Oriented Programming\Lab\HDproject\DogMeatGame-Timer\DogMeatWith pattern\obj\x86\Debug-Windows\MyGame.pdb
